@@ -1,0 +1,36 @@
+System report at Thu Oct 16 10:14:25 AM IST 2025
+Disk:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  3.0M  1.6G   1% /run
+/dev/nvme0n1p6   96G   37G   54G  41% /
+tmpfs           7.7G   12K  7.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        160K  135K   21K  87% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   69M  188M  27% /boot/efi
+/dev/sda1        29G   80K   29G   1% /media/nirmallya/UBUNTU
+tmpfs           1.6G  2.6M  1.6G   1% /run/user/1000
+
+Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       6.2Gi       1.3Gi       723Mi       7.4Gi       9.1Gi
+Swap:          488Mi       764Ki       488Mi
+
+CPU Info:
+Model name:                              12th Gen Intel(R) Core(TM) i5-12450H
+BIOS Model name:                         12th Gen Intel(R) Core(TM) i5-12450H T1561H5I1429 CPU @ 3.8GHz
+
+Top 5 MEM procs:
+    PID COMMAND         %MEM
+  11004 firefox          5.8
+  11374 Isolated Web Co  4.7
+  16169 Isolated Web Co  4.3
+  45046 soffice.bin      3.2
+  44441 Isolated Web Co  2.6
+
+Top 5 CPU procs:
+    PID COMMAND         %CPU
+  44441 Isolated Web Co  2.6
+  11004 firefox          1.4
+  16251 Isolated Web Co  1.1
+  11381 Isolated Web Co  0.7
+  45046 soffice.bin      0.6
