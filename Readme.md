@@ -37,8 +37,11 @@ Method sys_report ->
 
 Method process_manage -> 
 
+It lists on zombie process and no stopped process as you can see from top command that there are 0 stopped processes.
+
 <img width="1058" height="362" alt="list zom stop" src="https://github.com/user-attachments/assets/bfbebf1a-725a-47bf-bf68-c4b182db5b31" />
 
+Can't kill zombie process directly.
 
 <img width="1064" height="123" alt="kill zomb stopped" src="https://github.com/user-attachments/assets/8aa04d93-1650-42f3-a5df-8619ac8a078b" />
 
