@@ -2,9 +2,15 @@ Method show_help output ->
 
 <img width="824" height="241" alt="Show_help" src="https://github.com/user-attachments/assets/ccf4e0e1-74c1-4349-97ce-b7f9417881ab" />
 
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 Method add_user output -> 
 
 <img width="992" height="559" alt="add_user" src="https://github.com/user-attachments/assets/bb3046d7-1ddc-4230-8115-f29dcf1aeb62" />
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 Method setup_projects output -> 
@@ -29,11 +35,14 @@ Each project contains a Readme.txt file containing the report.
 
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 Method sys_report ->
 
 <img width="1057" height="66" alt="sys_report" src="https://github.com/user-attachments/assets/f8b1ba7d-f3be-4c6f-ab8b-f2d7cade334b" />
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 Method process_manage -> 
 
@@ -44,6 +53,8 @@ It lists on zombie process and no stopped process as you can see from top comman
 Can't kill zombie process directly.
 
 <img width="1064" height="123" alt="kill zomb stopped" src="https://github.com/user-attachments/assets/8aa04d93-1650-42f3-a5df-8619ac8a078b" />
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 Method perm_owner -> 
 
